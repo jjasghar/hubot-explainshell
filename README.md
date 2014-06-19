@@ -1,3 +1,6 @@
+
+# I have updated this to https://github.com/hubot-scripts/hubot-explainshell
+
 # Hubot: hubot-explainshell
 
 A explainshell wrapper for Hubots.
